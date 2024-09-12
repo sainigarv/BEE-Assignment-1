@@ -1,0 +1,22 @@
+[
+  {
+    "id": "2",
+    "title": "Physics",
+    "author": "HC Verma",
+    "genre": "Science",
+    "publicationYear": 2023,
+    "imageURL": "https://hcverma.jpg",
+    "ISBN": "9780061120084",
+    "description": "HCV Physics book"
+  },
+  {
+    "id": "a54a63e8-bd51-4b47-a0fa-474056647ba7",
+    "title": "new",
+    "author": "jkv",
+    "genre": "Unknown",
+    "publicationYear": "Unknown",
+    "imageUrl": "https://via.placeholder.com/150",
+    "ISBN": "db0720d8-3644-44cd-8073-7f2353cb4102",
+    "description": "No description available"
+  }
+]
